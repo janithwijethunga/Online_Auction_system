@@ -1,0 +1,6 @@
+
+open customer list
+http://localhost:8070/onlinebidding/userList
+
+admin bid 
+http://localhost:8030/onlinebidding/bidlist
